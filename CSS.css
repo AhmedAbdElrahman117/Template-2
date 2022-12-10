@@ -14,7 +14,14 @@
   body {
     font-family: "Open Sans", sans-serif;
   }
+
   ul {
     list-style: none;
+  }
+
+  .container {
+    padding-left: 15px;
+    padding-right: 15px;
+
   }
   /* End Global Rules */
