@@ -14,4 +14,7 @@
   body {
     font-family: "Open Sans", sans-serif;
   }
+  ul {
+    list-style: none;
+  }
   /* End Global Rules */
