@@ -223,6 +223,12 @@ header nav .form i {
   color: #ddd;
 }
 
+@media (max-width: 767px) {
+  .landing .change-background {
+    display: none;
+  }
+}
+
 .landing .fa-angle-left {
   left: 30px;
 }
