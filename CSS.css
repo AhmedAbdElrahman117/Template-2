@@ -87,6 +87,7 @@ left: 50%;
 transform: translateX(-50%);
 width: 14px;
 height: 14px;
+border-radius: 50%;
 }
 
 .main-heading p{
