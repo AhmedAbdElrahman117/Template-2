@@ -311,6 +311,10 @@ header nav .form i {
   padding-bottom: var(--section-padding);
 }
 
+@media (min-width: 768px) {
+  
+}
+
 .services .srv-box {
   display:flex;
 }
