@@ -217,7 +217,9 @@ header nav .form i {
   color: #ddd;
 }
 
-
+.landing .fa-angle-left {
+  left: 30px;
+}
 
 
 /* End Landing */
