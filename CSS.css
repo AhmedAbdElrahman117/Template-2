@@ -191,6 +191,7 @@ header nav .form i {
   background-color: var(--transparent-color);
   color: white;
   display: flex;
+  justify-content: flex-end;
 }
 
 
