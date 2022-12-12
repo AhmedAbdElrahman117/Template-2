@@ -49,4 +49,12 @@
   }
   /* End Global Rules */
 
+  /* Start Header */
+  header {
   
+}
+
+header.container {
+  display: flex;
+
+}
