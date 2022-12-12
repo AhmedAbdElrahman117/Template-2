@@ -82,6 +82,7 @@ width: 120px;
 
 .main-heading h2::after{
 content:'';
+position: absolute;
 }
 
 .main-heading p{
