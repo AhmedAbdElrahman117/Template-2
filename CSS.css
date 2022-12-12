@@ -62,7 +62,8 @@
 }
 
 .main-heading h2{
-
+  font-weight: normal;
+  
 }
 
 .main-heading h2::before{
