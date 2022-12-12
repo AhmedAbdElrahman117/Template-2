@@ -62,8 +62,14 @@
 }
 
 .main-heading h2{
+
+}
+
+.main-heading h2::before{
   
 }
+
+
 
 
 /* End Components */
