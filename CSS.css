@@ -66,10 +66,12 @@
 }
 
 .main-heading h2::before{
-  
+
 }
 
-
+.main-heading h2::after{
+  
+}
 
 
 /* End Components */
