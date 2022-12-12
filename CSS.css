@@ -242,7 +242,7 @@ header nav .form i {
 }
 
 .landing .bullets li.active {
-  
+  background-color: var(--main-color);
 }
 
 
