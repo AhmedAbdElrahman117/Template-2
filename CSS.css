@@ -377,7 +377,7 @@ header nav .form i {
 
 .design .image,
 .design .text{
-  
+  position: relative;
 }
 
 /* End Design */
