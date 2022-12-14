@@ -361,6 +361,7 @@ header nav .form i {
   background-image: url("/neon2.jpg");
   background-size: cover;
   display: flex;
+  align-items: center;
 }
 
 
