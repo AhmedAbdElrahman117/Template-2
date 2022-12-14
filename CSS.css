@@ -360,6 +360,7 @@ header nav .form i {
   position: relative;
   background-image: url("/neon2.jpg");
   background-size: cover;
+  display: flex;
 }
 
 
