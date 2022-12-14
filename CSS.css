@@ -378,6 +378,8 @@ header nav .form i {
 .design .image,
 .design .text{
   position: relative;
+  z-index: 2;
+  flex: 1;
 }
 
 /* End Design */
