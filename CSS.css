@@ -425,6 +425,7 @@ header nav .form i {
 
 /* Start Portfolio */
 .portfolio {
-
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 }
 /* End Portfolio */
