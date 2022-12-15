@@ -430,6 +430,6 @@ header nav .form i {
 }
 
 .portfolio .shuffle {
-  
+  display: flex;
 }
 /* End Portfolio */
